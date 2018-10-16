@@ -3,7 +3,7 @@ crosstool-ng config for Cortex A7 CPU / Rust Arm v7 target (armv7-unknown-linux-
 
 This is intended for linking cross-compiled Rust `armv7-unknown-linux-gnueabihf` on macOS/Linux. Add it to your [crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) samples folder.
 
-### For original Raspberry Pi or Zero
+### Install toolchain
 
 ```
 $ rustup target install arm-unknown-linux-gnueabi
